@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mynda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="first_title_onboard">Enjoy verified maid services</string>
+    <string name="first_description_onboard">You don\'t need to stress too much, with Mynda you can access to verified \nmaids from the comfort of your home</string>
+    <string name="second_title_onboard">Reliable platform connecting employers and artisans</string>
+    <string name="second_description_onboard"> Get access to all different kinds of professional artisans with just a simple few clicks on your phone.</string>
+    <string name="third_title_onboard">Detailed verification process</string>
+    <string name="third_description_onboard">We ensure proper verification process for all artisans which includes KYC, police verification and so on.</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="select_role">Select Role</string>
+    <string name="connect_with_employers_and">Connect with employers and artisans around you by selecting your role.</string>
+    <string name="are_you_a_maid_mynda">Are you a Maid / Mynda ?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="are_you_an_agent">Are you an Agent ?</string>
+    <string name="are_you_an_employer">Are you an Employer ?</string>
+    <string name="are_you_a_lab_hospital">Are you a Lab / Hospital?</string>
+    <string name="create_account">Create Account</string>
+</resources>
